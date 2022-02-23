@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Catalogue of books of the newest fashion to be sold by auction at the Whiggs Coffee-House, at the sign of the jackanapes in Prating-Alley, near the deanry of St. Paul's.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31257</idno>
+            <idno type="STC">Wing C1286</idno>
+            <idno type="STC">ESTC R3309</idno>
+            <idno type="EEBO-CITATION">12267998</idno>
+            <idno type="OCLC">ocm 12267998</idno>
+            <idno type="VID">58127</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31257)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58127)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 134:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Catalogue of books of the newest fashion to be sold by auction at the Whiggs Coffee-House, at the sign of the jackanapes in Prating-Alley, near the deanry of St. Paul's.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An attack on William Sherlock and other members of the clergy who took the oath.</note>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="catalogue">
+                  <pb facs="tcp:58127:1" rendition="simple:additions"/>
+                  <pb n="1" facs="tcp:58127:1" rendition="simple:additions"/>
+                  <head>A Catalogue of BOOKS of the Neweſt Fa<g ref="char:EOLhyphen"/>ſhion, to be Sold by A<g ref="char:V">Ʋ</g>CTION at the WHIGGS Coffee-Houſe, at the Sign of the <hi>Jackanapes</hi> in <hi>Prating-Alley,</hi> near the Deanry of St. <hi>Paul</hi>'s.</head>
+                  <list>
+                     <item>1. <hi>ECcebolius Anglicus:</hi> The <hi>Oxford <gap reason="illegible" resp="#MURP" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>,</hi> or the Duty of conforming to all Times and Circum<g ref="char:EOLhyphen"/>ſtances of prevailing Wickedneſs and Injuſtice, and the unlawfulneſs of the contrary, by <hi>Hum—y H<gap reason="illegible" resp="#MURP" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>y,</hi> an humble Aſſertor of that Doctrine, dedicated to his Maſter <hi>St</hi>—.</item>
+                     <item>2. <hi>Mercurius Deformatus:</hi> Or the Picture of <hi>Mercury</hi> with a Calf's Head on and no Brains in't; by that Con<g ref="char:EOLhyphen"/>temptible Witling the Weekly Obſervator: Dedicated to the learned and worthy Dr. <hi>Wel—d.</hi>
+                     </item>
+                     <item>3. <hi>Lues Germanica:</hi> The <hi>Dutch-Pox</hi> in Folio. A Mo<g ref="char:EOLhyphen"/>dern Treatiſe, holding forth a ſurer way of clapping our <hi>Conſciences,</hi> than a Land Fire-ſhip can our <hi>Cod-pieces.</hi>
+                     </item>
+                     <item>4. <hi>St fortuna velit fies; de, &amp;c. Gravel-lane</hi> to Day, D—n of <hi>P—l</hi>'s to Morrow, and <hi>Gravel-lane</hi> again, as moody Fortune or <hi>Spouſe</hi> pleaſes: By <hi>Smock-peckt Sh—k.</hi>
+                     </item>
+                     <item>5. <hi>Quos Jupiter vult perdere,</hi> &amp;c. <hi>England</hi> firſt made a <hi>Bedlam</hi> by <hi>Prieſts of Latitude,</hi> and then an <hi>Aceldama</hi> by the <hi>Dutch Pilgrims</hi> in <hi>Sohoe;</hi> publiſhed as a Specimen of the Bleſſings we may rationally expect from a general <hi>Comprehenſion</hi> of all <hi>Religions,</hi> as well as of a general <hi>Naturalization</hi> of all <hi>Nations.</hi>
+                     </item>
+                     <pb n="2" facs="tcp:58127:2" rendition="simple:additions"/>
+                     <item>6. <hi>Non magna loquimur ſed, &amp;c.</hi> By the pious Author and religious Practiſer of the Letter to the dying Lord <hi>Ruſſ—l,</hi> addreſſed chiefly to his Arch-Brother and <hi>quon<g ref="char:EOLhyphen"/>dam</hi> Pupil Dr. <hi>Sh</hi>—, as an Antidote againſt Shame and Remorſe; with a Uſe of Inſtruction, that thoſe things you cannot get fairly rid of by Argument or Banter, you muſt learn ſolidly to out-face.</item>
+                     <item>7. <hi>Clodius accuſat maechos:</hi> Or three Diſcourſes againſt <hi>Tom Fir—n,</hi> and a fourth againſt Hell-Torments; the firſt Tract extorted from the Author by the importunate Clamours of thoſe who hate <hi>Hereticks in Maſquerade,</hi> as the Author himſelf tells you, leaſt you ſhould think he drew his P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n in the defence of Chriſtianity voluntarily; the ſecond publiſhed as a brief Summary of his Creed, by way of communicatory Letter: Dedicated to his Sub-Intruders.</item>
+                     <item>8. <hi>H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u quantum nobis profuit,</hi> &amp;c. A Treatiſe ſhewing that Hypocriſy's the beſt Religion, by him that has gain'd 6000 <hi>l. per An.</hi> by't; theſe three laſt by the ſame Hand.</item>
+                     <item>9. <hi>Dux foemina facti:</hi> Conqueſt the beſt Title to Body and Confcience, by Dr. <hi>Sh—k</hi>'s Wife, dedicated to her Humble Servant her Husband; wherein theſe two Points are proved at large: Firſt, That no Man is a good Hus<g ref="char:EOLhyphen"/>band who will no<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſacrifice his Conſcience to the importu<g ref="char:EOLhyphen"/>nity of a Wife: And Secondly, That <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he Doctor was vi<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ly under her <hi>Power,</hi> and therefore he was forced to ſubmit, and might do ſo according to his <hi>Hypoth ſis of Force,</hi> which diſſolves all Obligation, eſpecially ſince the <hi>Female Uſurpation</hi> had been for a l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng time, and <hi>throughly ſettled.</hi>
+                     </item>
+                     <item>10. <hi>Dum vitium fugiunt ſtulti. &amp;c.</hi> An infallible Cure for the Cramp in the great Toe, by cuting both Leggs off, the Operation performed by the Aſſo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iated Conven<g ref="char:EOLhyphen"/>tioners of 88, and approved by ſome of the Task-maſters
+<pb n="3" facs="tcp:58127:2" rendition="simple:additions"/>of laſt Seſſion: Together with Apologies for the ſame, by thoſe two Foxes <hi>John—n</hi> and <hi>Bur—t,</hi> each of which, though their Heads ſtand different ways, has the <hi>Fire<g ref="char:EOLhyphen"/>brand</hi> of <hi>Rebellion</hi> in his Tail.</item>
+                     <item>11. <hi>Parturiunt montes nafcetur, &amp;c.</hi> An exact Liſt of all the Countries, Cities, Towns, Fortreſſes, Caſtles, Laden Veſſels, Cannon, Priſoners, Baggage, <hi>&amp;c.</hi> taken from the <hi>French</hi> ſince the Commencement of the laſt War; by <hi>Johannes Pudendus</hi> a Speaker of Short-Hand: Dedica<g ref="char:EOLhyphen"/>ted to the <hi>inviſible, invulnerable, and thrice puiſſant Pro<g ref="char:EOLhyphen"/>tector</hi> of theſe three <hi>once</hi> flouriſhing Kingdoms.</item>
+                     <item>12. <hi>Manus manum fricat:</hi> Or a King maker deſerves to be a Wages-taker; by a Club of thoſe confiding Kn—s that ſold their Countrey laſt Seſſion; dedicated to their Pay-maſter; wherein they gratefully own they have ta<g ref="char:EOLhyphen"/>ken his Money, but withal tell him they have not been behind-hand, but for every hundred Pounds they have received from him they have given him ten thouſand.</item>
+                     <item>13. <hi>E quovis ligno non fit Mercurius:</hi> Clearly demon<g ref="char:EOLhyphen"/>ſtrating that you'l ſooner make a <hi>ſweet Punch Bowl</hi> of a <hi>wooden Cloſe-Stool,</hi> than an <hi>Orthodox Biſhop</hi> of an <hi>old ſtink<g ref="char:EOLhyphen"/>ing Phanatick;</hi> humbly offered to the <hi>Crack-brain'd Fran<g ref="char:EOLhyphen"/>tick Window-breaker</hi> of <hi>Cripplegate,</hi> a lively and living Te<g ref="char:EOLhyphen"/>ſtimony of the Truth of that Treatiſe.</item>
+                     <item>14. <hi>Semper idem:</hi> Or a Covenanter in 47, an Engager in 52, a Negative and <hi>&amp;c.</hi> Oath-man in 57, a Surplice Re<g ref="char:EOLhyphen"/>nouncer in 61, a Conformiſt and Covenant-Renouncer in 64, a Rebel in 88, a ſcandalous Intruder in 90, and a <hi>Judas</hi> always; by <hi>R—d K—r,</hi> and ſeveral others: Dedicated to undipt <hi>John,</hi> and are to be ſold at the <hi>Wind<g ref="char:EOLhyphen"/>mill</hi> in <hi>Turn-coat-Alley,</hi> where are Alcorans or Bibles, Common-Prayer or Maſs-Books, <hi>Geneva</hi> Cloaks or Gowns and Caſſocks, Miters or Turbants of all ſorts and ſizes, for the uſe of the perſevering Confeſſors aforeſaid.</item>
+                     <pb n="4" facs="tcp:58127:3" rendition="simple:additions"/>
+                     <item>15. <hi>Que genus &amp; flexum variant, &amp;c.</hi> Or a Propheſy of the ſix Grand Intruders; proving them to be Hetero<g ref="char:EOLhyphen"/>clites and Heterodox, from the Rudiments of Grammar and Chriſtianity.</item>
+                     <item>16. <hi>Nos patriae fines, &amp;c.</hi> Room for Sooterkins, or the neighbourly kindneſs of a general Naturalization; ſhew<g ref="char:EOLhyphen"/>ing that ſince Foreigners have naturaliz'd and adopted all our Money, it is but reaſonable that we ſhould adopt and naturalize ſome of their Men; becauſe we have nothing left now to oblige them with but our <hi>Terra firma,</hi> and ſince it is not poſſible to tranſport our Mountains to them, we ſhould bring them to our Mountains.</item>
+                     <item>17. <hi>Graeculus eſuriens, &amp;c.</hi> A Catalogue of <hi>Refugees</hi> turn'd <hi>Witches,</hi> in hopes of the Honours and Revenues of Engliſh <hi>Biſhopricks;</hi> By <hi>Gil—t Bu—t</hi> Founder of that Order: Dedicated to <hi>Mounſieur Alix,</hi> already a Treaſu<g ref="char:EOLhyphen"/>rer of one Cathedral, and a forward putter for the Go<g ref="char:EOLhyphen"/>vernment of another.</item>
+                     <item>18. <hi>Exorciſta:</hi> Or <hi>England</hi> diſpoſſeſs'd of a Low-Coun<g ref="char:EOLhyphen"/>trey Devil, by the High-Dutch Conjurer of the <hi>Savoy.</hi>
+                     </item>
+                     <item>19. <hi>Eccleſi liberata.</hi> The Eſtabliſhed Church preſerv'd by damning her Doctrines to ſteal her Pelf; By Brother <hi>I—n</hi> of the <hi>Char—r-Houſe:</hi> preſented for a New-Years-Gift to Siſter <hi>Sym—n,</hi> wherein is learnedly pro<g ref="char:EOLhyphen"/>ved, that Poſſive Obedience without a Parſonage and Pre<g ref="char:EOLhyphen"/>bendary, and <hi>Pater-noſters</hi> without Pence, are unedify<g ref="char:EOLhyphen"/>ing Tenents, and that no Church is worth the ſaving that will not allow Tent and Eggs to one's Breakfaſt.</item>
+                     <item>20. <hi>Proximus ſum egomet mihi:</hi> Near is my <hi>King,</hi> but nearer is my <hi>Skin;</hi> By that renowned Vindicator of the <hi>Church,</hi> the <hi>Martyr</hi> Dr. <hi>Pel—g:</hi> Dedicated to M. G. <hi>Lud<g ref="char:EOLhyphen"/>low,</hi> as a thankful Return to his laſt obliging Letter on that Subject; containing the Reaſons of <hi>Jeſhurun's</hi> kick<g ref="char:EOLhyphen"/>ing and the Dr's deſerting. Printed for <hi>Aminadab Rebel<g ref="char:EOLhyphen"/>lis,</hi>
+                        <pb n="5" facs="tcp:58127:3"/>and are to be fold at the Sign of the <hi>Jack-Pudding</hi> in <hi>Taylors Court</hi> near <hi>Weſt—r.</hi>
+                     </item>
+                     <item>21. <hi>Aſperius nihil est humili, &amp;c.</hi> A New-invented Ma<g ref="char:EOLhyphen"/>thematical Inſtrument, by the help of which one may di<g ref="char:EOLhyphen"/>ſcover, that the higher a <hi>Jackanapes</hi> climbs, the more he ſhews his Arſe: Publiſhed for a Warning to Dr. <hi>Birch's Fathers that never were Sons,</hi> that they may take effectual Care to double line their Breeches, becauſe there's an old Saying, that <hi>Fools will be peeping.</hi>
+                     </item>
+                     <item>22. <hi>Octavus Sapientum:</hi> Or Bog-witiciſms improved for the Diverſion of both Sexes; being ſome ſmall Glean<g ref="char:EOLhyphen"/>ings from the plentiful Stock of the Worſhipful Sir <hi>Sal—l Lov—l</hi> R—r <hi>L—o.</hi>
+                     </item>
+                     <item>23. <hi>Aſiaus ad Lyram:</hi> An Argument in Law, proving that killing of Horſes is down-right Murder: Publiſhed as a Caution to prevent the Effuſion of Chriſtian Blood: By the ſame Ingenious Author.</item>
+                     <item>24. <hi>In dubits tutior pars:</hi> Or the broad Way to ſave a Man's Bacon and damn his Soul.</item>
+                     <item>25. <hi>Junius Brutus Redivivus,</hi> The Loyal Converter of the 30th of <hi>Jan.</hi> into a Day of Preparation for the Sa<g ref="char:EOLhyphen"/>crament; to be received only by ſuch who make it the firſt Article of their Religion, That the murdering or driving away Lawful Kings is not only lawful but Saint<g ref="char:EOLhyphen"/>like perform'd on the laſt Anniverſary, By <hi>W—ms</hi> of the <hi>Poultry.</hi>
+                     </item>
+                     <item>26. <hi>Filius ante diem:</hi> A Vindication of Diſobedience and Parricide, proving that Children owe no Duty to Parents, unleſs ſo long as they did not underſtand it; but when they come to Years of Diſcretion, they may and ought to maintain their Liberty of Diſobedience, even to the de<g ref="char:EOLhyphen"/>ſtruction of their Parents, if they but ſuſpect that they will labour to prevent ſuch Undutifulneſs: Dedicated to a very dutiful Lady at the great Houſe near <hi>Ch—ng-Croſs;</hi> by the Plyer at St. <hi>Andrew's Holborn.</hi>
+                     </item>
+                     <pb n="6" facs="tcp:58127:4"/>
+                     <item>27. <hi>Semel inſanivimus omnes:</hi> Or a Treatiſe ſhewing that he's no good Philoſopher, that has not committed one Folly: But at the ſame time ſhewing, that he's an Aſs and a Knave that purſues it when he ſees the Cheat: Pub<g ref="char:EOLhyphen"/>liſhed by a Club of relenting Abdicators, and by them Dedicated to the ſeveral Counties, Cities, Towns Cor<g ref="char:EOLhyphen"/>porate and Burroughs they repreſent.</item>
+                     <item>28. <hi>Unguentum Opthalmicum,</hi> Sovereign Eye-bright to remove the Miſts from the Peoples Eyes, that they may ſee their Condition and reward their Riders: Addreſſed to the unfeigned lovers of <hi>England</hi> of what Condition or Perſwaſion ſoever.</item>
+                     <item>29. <hi>Nolumus hunc regnare.</hi> An Epitome of all the learn<g ref="char:EOLhyphen"/>ed Reaſons given by our Intruders and preſent Riders, a<g ref="char:EOLhyphen"/>gainſt returning to our Senſes and reſtoring the King; with an Appendix of ſear of Puniſhment and Diſgrace: Dedicated to half a dozen Hen peck'd <hi>London-Divines.</hi>
+                     </item>
+                     <item>30. <hi>Nunquam ſera eſt ad bonos,</hi> &amp;c. Or the Reſurrecti<g ref="char:EOLhyphen"/>on of <hi>Allegiance</hi> and <hi>Diſcipline</hi> from the Grave of <hi>Rebellion</hi> and <hi>Schiſm,</hi> by the oppreſſed and abuſed Sons of the old true Church of <hi>England:</hi> Publiſhed to the Confuſion of thoſe Sons of <hi>Latitude</hi> and <hi>Belial,</hi> that make Heaven Pimp to their Intereſt.</item>
+                     <item>31. <hi>Ex nihilo nihil fit:</hi> Or a Diſſertation of the <hi>No Power</hi> of a <hi>no Parliament,</hi> making a <hi>no King,</hi> that will always be doing us <hi>no good,</hi> by leaving us <hi>no Parliaments</hi> without <hi>Perjury</hi> and <hi>Penſioners, no Church</hi> without <hi>Knaves</hi> and <hi>Intruders,</hi> no <hi>Trade</hi> without <hi>Hazard</hi> and <hi>Loſſes,</hi> no <hi>Credit</hi> at <hi>Home</hi> or <hi>Abroad,</hi> no <hi>Honour</hi> nor <hi>Conſcience,</hi> no <hi>Bloud</hi> in our <hi>Veins,</hi> nor <hi>Money</hi> in our <hi>Pockets,</hi> none but <hi>Holland-Frogs</hi> and <hi>Caterpillers</hi> in the <hi>Nation,</hi> and nothing but <hi>Repentance</hi> at the laſt.</item>
+                  </list>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="jests">
+                  <pb n="7" facs="tcp:58127:4"/>
+                  <head>Caſes of Conſcience and Queries.</head>
+                  <list>
+                     <item>1. WHether a <hi>Penſioner</hi> be not ten times worſe than a <hi>Lapland. Wizard,</hi> ſince the latter only ſells his own <hi>Soul</hi> to the <hi>Devil,</hi> but the <hi>Penſioner</hi> ſells <hi>other</hi> Mens <hi>Souls, Bodies and all?</hi>
+                     </item>
+                     <item>2. Whether a <hi>Coachman</hi> may not drive poſt to the <hi>D—l</hi> by prophaning the <hi>Lord's Day,</hi> notwithſtanding the <hi>Li<g ref="char:EOLhyphen"/>cenſe</hi> of the <hi>Houſe?</hi>
+                     </item>
+                     <item>3. Whether the remaining four of the unrepealed Commandments ought not to be caſhier'd next Seſſion?</item>
+                     <item>4. Whether the <hi>Members</hi> were aſleep in St. <hi>Margarets</hi> or St. <hi>Stephens,</hi> when they voted Dr. <hi>Birch</hi> a <hi>Saint</hi> in one place, and a <hi>Malignant</hi> in t'other?</item>
+                     <item>5. Whether the Fifth Commandment be part of the <hi>Coronation-Oath</hi> ſince our Governours obſerve it ſo ſtrictly?</item>
+                     <item>6. Whether Proteſtant Tyranny ben't better than Po<g ref="char:EOLhyphen"/>piſh Tyranny by 6000000 <hi>per Annum?</hi>
+                     </item>
+                     <item>7. Whether Popiſh Knives and Grid-Irons have done us half ſo much miſchief as Dutch Declarations and Engliſh Penſioners?</item>
+                     <item>8. Whether 'tis not a Cordial to an Engliſhman's Sto<g ref="char:EOLhyphen"/>mach, to hear a naſty Dutchman ſwear that they have gi<g ref="char:EOLhyphen"/>ven us a King to wipe their State-holder's Backſide?</item>
+                     <item>9. Whether 'tis better to have ſome Religion, all Peace, and moderate Taxes, or no Peace, no Religion, and all Taxes?</item>
+                     <item>10. Whether when the Roguy Graver fix'd old <hi>Noll</hi>'s Head on <hi>W—m</hi>'s Shoulders, the Figure were not all of a piece?</item>
+                     <item>11. Whether 600000 <hi>l.</hi> were not too ſmall a Gratuity to our dear <hi>Saviours</hi> the <hi>Dutch,</hi> and whether we had not
+<pb n="8" facs="tcp:58127:5"/>better openly give them all, than let them take it underhand, and laugh at us into the Bargain?</item>
+                     <item>12. Whether our Governours do not act wiſely in ſacrificing our <hi>Seamen</hi> and ſtarving their Wives, ſince they deſign ſhortly we ſhall have no <hi>Ships?</hi>
+                     </item>
+                     <item>13. Whether i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> was not a true Blander in him that took the <hi>Pope's</hi> Picture for that of K. <hi>W.</hi> ſince he interpreted the two Keys to be thoſe of our Coffers and Conſciences?</item>
+                     <item>14. Whether <hi>Julian</hi> or <hi>Sherlock</hi> deſerve the Whetſtone, ſince <hi>Julian</hi> has been always true to a falſe Principle, and <hi>Sherlock</hi> Traitor and f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lfe to a <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rue one?</item>
+                     <item>15. Whether <hi>S</hi>— ben't the m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſt excuſable Inſtrument in our preſent Sla<g ref="char:EOLhyphen"/>very, ſince <hi>Treaſon</hi> and <hi>Rebellion</hi> in him are <hi>Original Sin?</hi>
+                     </item>
+                     <item>16. Whether <hi>Cumb—d</hi> and <hi>Ten—n</hi> ever confuted ten <hi>Hobbiſts</hi> by their B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>wl<g ref="char:EOLhyphen"/>ing and Printing? and whether they have not m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>de ten thouſand by their practiſe?</item>
+                     <item>17. Whether <hi>Julian,</hi> the <hi>Houſe,</hi> or the <hi>Hangman</hi> have made the beſt Second Treble to <hi>Gilbert</hi>'s Paſtoral?</item>
+                     <item>18. Whether <hi>Father Sim—n</hi> has been rebapt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>z'd, ſinc he publickly re<g ref="char:EOLhyphen"/>nounced Chriſtianity in <hi>Peter—gh</hi> Carhedral?</item>
+                     <item>19. Whether the <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>otch-Conferences,</hi> and the <hi>Friendly Debate</hi> are not damnably aſham'd of their Raſcally Authors?</item>
+                     <item>20. Whether the <hi>Pilgrim's Progreſs</hi> or the <hi>Parable of the Pilgrim</hi> had the bet<g ref="char:EOLhyphen"/>ter <hi>Tinker</hi> to their Author, ſince they both ſet up for a pair of <hi>Church Menders?</hi>
+                     </item>
+                     <item>21. Whether <hi>Richard of Kidder miniſter</hi> had not much more Epiſcopacy and Unîformity in him than our Saint <hi>Richard Kidder?</hi>
+                     </item>
+                     <item>22. Whether the Latin reaſon of <hi>Auri ſacra ſames,</hi> or the Engliſh of the <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>, <hi>Mare's the better Horſe,</hi> did operate moſt in making <hi>Sherlock</hi> a Changling?</item>
+                     <item>23. Whether <hi>Bedlam</hi> ever produced any thing half ſo lewd and frantick as <hi>Creſner</hi>'s Lampoons upon the Apocalypſe?</item>
+                     <item>24. Whether the <hi>old Wel<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h Seer</hi> may not with the help of a ſmall Looking-glaſs ſee an old <hi>crazy-crown'd Infidel</hi> ſince he pawn'd his <hi>Creed</hi> in 88, that <hi>Lewis</hi> the Grand and <hi>Old Nick</hi> ſhould be Chamber-Fellows in t'other World before the end of 92?</item>
+                     <item>25. Whether <hi>J. C.</hi> or <hi>J. Y.</hi> have not all the reaſon imaginable to admit Ran<g ref="char:EOLhyphen"/>ters, Sweet-Singers, Muggletonians, Jews, Turks and Infidels to be Church<g ref="char:EOLhyphen"/>members, ſince their own Hearts tell them they're as good Chriſtians as them<g ref="char:EOLhyphen"/>ſelyes?</item>
+                     <item>26. Whether in the next Edition of his Shame, the renowned Author of the <hi>Contempt of the Clergy</hi> ought not to add one other lamentable reaſon, beſides thoſe of Ignorance and Poverty, <hi>viz.</hi> Time-ſerving; together with his own Phizz in the Fr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ntiſpiece?</item>
+                     <item>27. Whether Dame <hi>Britannia</hi> were not leſs culpable in being forc'd to endure a Thirteen Years Rape from <hi>Oliver</hi> and the <hi>Rump,</hi> than by living a Five Years Adultereſs now by Conſent?</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:58127:5"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
